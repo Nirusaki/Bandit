@@ -34,3 +34,6 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 # Level 6
 ls
 cd inhere
+find . -size 1033c ! -executable
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+# Level 7
