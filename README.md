@@ -1,4 +1,9 @@
 # Bandit https://overthewire.org/wargames/bandit/
+![image](https://user-images.githubusercontent.com/102373341/160247285-13b806e9-2843-4c35-b12c-60997e0ee575.png)
+
+
+
+
 Bandit Is A Terminal Based Game Which Teaches you Basic Linux + Hacking
 # Level 0
 I  Will be Telling Only CMD
@@ -37,3 +42,14 @@ cd inhere
 find . -size 1033c ! -executable
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 # Level 7
+find / -user bandit7 -group bandit6 -size 33c -type f 2>/dev/null
+/var/lib/dpkg/info/bandit7.password
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+# Level 8
+ls
+grep millionth data.txt
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+# Level 9
+Still Figuring Out How To Do It
+Updating It Soon
+# Sayonara
